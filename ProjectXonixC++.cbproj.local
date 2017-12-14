@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.173,=C:\Users\dima\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.889,=C:\Users\dima\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.230,=C:\Users\dima\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.961,D:\_d\5sem\Xonix\RadStudioXonix\ProjectXonixC++.cbproj=C:\Users\dima\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,=C:\Users\dima\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,D:\_d\5sem\Xonix\RadStudioXonix\MainUnit.dfm=C:\Users\dima\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.436,D:\_d\5sem\Xonix\RadStudioXonix\Config.h=D:\_d\5sem\Xonix\RadStudioXonix\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,D:\_d\5sem\Xonix\RadStudioXonix\MainUnit.cpp=C:\Users\dima\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,D:\_d\5sem\Xonix\RadStudioXonix\MainUnit.h=C:\Users\dima\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,D:\_d\5sem\Xonix\RadStudioXonix\ProjectXonix.h=C:\Users\dima\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,=D:\_d\5sem\Xonix\RadStudioXonix\File1.h</Transaction>
+  </Transactions>
+</BorlandProject>
